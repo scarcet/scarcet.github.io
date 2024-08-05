@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end and backend languages 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on great projects 
-- 📫 How to reach me scarcet110.ta@gmail.com
+- 📫 How to reach me babatundeajayi209@gmail.com
 
 <!---
 Tunde15/Tunde15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
